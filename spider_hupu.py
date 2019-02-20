@@ -15,8 +15,8 @@ headers = {
     "User-agent": 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36'
 }
 
-base_url = "https://bbs.hupu.com/selfie"
-second_url = "https://bbs.hupu.com/"
+base_url = "https://bbs/selfie"
+second_url = "https://bbs/"
 
 urls_queue = Queue()
 second_urls_queue = Queue()
