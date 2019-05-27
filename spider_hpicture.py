@@ -8,6 +8,8 @@ from bs4 import BeautifulSoup
 import time
 
 
+bak = "https://bbs.hupu.com/27175199.html"
+
 FORMAT = "%(asctime)s %(threadName)s %(thread)d %(message)s"
 logging.basicConfig(format=FORMAT,level=logging.INFO)
 
